@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a third year undergraduate student from [Hohai university](https://www.hhu.edu.cn/).
+Hi, there! I am Qinxin Liu, Currently I'm a third year graduate student at the [College of Civil and Transportation Engineering](https://www.hhu.edu.cn/),Hohai University, China. Prior to this, I completed my Bachelor's degree at [Shandong University of Technology](https://jtxy.sdut.edu.cn/). I prefer to seek a PHD opportunity after my master study. My research interests include deep learning, time series prediction, machine learning and factor analysis methods.
 
 A data-driven personal website
 ======
